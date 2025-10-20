@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "q81l62oleuqmgyxobki",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "2aba37eu53mgyxobki",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "rwzy4bcjesemgyxobki",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "irfpyxmb5lmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "gabna7brj3kmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "4jjv1atv86rmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ls4yjxspeqtmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "et6aisy32cemgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "hjhsduhmxabmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "gyb6ldmxawbmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "oxl5yz5oafomgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "x3jmjj0wxmmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7i9qqz59u5xmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "kqle6f8hh5hmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "1ehexihgi6dmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "17rooxnv9gcimgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "qo78wfw4x7mgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "n0ms953j2rmgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "wgw0zrr55qemgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "yab9df15fumgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "4s9ffygk2x9mgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "r19e99dlex9mgyxobkj",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "z3ose2tz07mgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "23iq8ebwm0jmgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "rlv6cxjlq6mgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "72colp5ap0cmgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "2c6kfk3dxaymgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "1zits5mvkovmgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7qsyyw8augvmgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "mv7atjdqplmgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "z3symfy7vjomgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ngsr2bnupfdmgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "x0xats9x61mgyxobkk",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "2nkad1a092mgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "06ruw9ptt2bcmgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "bz4d1c8uu6nmgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "31383zoxwzrmgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "d88vyu02pnomgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "1nokw1sxjyamgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "d50htohbm7mgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "05fi0kkrqokgmgyxobi5",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "x38w87kx459mgyxobkl",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "5i5f5lp7eu6mgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "9ijumnqruxhmgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "ms95jl4ax6mgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "jwj2nmsxobmgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "f2gkdsgulolmgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "m2s6uovri2mgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "6a2rfmqekxnmgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "6d4c8g7trq7mgyxobkm",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "32ubmxl3x0amgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "0bvjt0ryd0pmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "2mv32gu766wmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "qdxj2ptaaxmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "fs71imfkyzmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "3p772djsmnqmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "h61a0gnzdmjmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "dfednbsx0yqmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "hlhi1xk9llqmgyxobkn",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "rbi7ld7j0pbmgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "qjh1g1ebepnmgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "d9t82181g7mgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "l7f8t3q7b7mgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "x9wnud0hfkmgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "uw6emmmnkymgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "43pqcnt5gq9mgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "6i4smco30qmgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "k2j3owggmvemgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "avjzbzii6qcmgyxobko",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "yfrhu9s9whmgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ux5fefm9u1mgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "0p1gmxghderjmgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "b2usby5p4hmgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "tlwn6ofenalmgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "08mojdh4mexmmgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "j2gbh2t7k3mgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "his3miyr34wmgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "6qmf0j82xuimgyxobkp",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "pdtucmvjc7emgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "tsjdezfunomgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "06weys9u50omgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "69nfd6z23gjmgyxobi5",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "axcypk72jg6mgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "3w727389khqmgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "qqqo8wab1etmgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "ajhcvxfy9gimgyxobkq",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "yo8wlm647ynmgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "z0d0ykimkomgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "sgxxjgvphamgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ru6jwszualmgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "j3mg9vw8k3fmgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "u5hnz3m4udomgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "clckoh7gdywmgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "zgz6on8pb8mgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "mqa9ppc3iymgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "0vnsy9n8r2dnmgyxobkr",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "0j9fhf9i43inmgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "9jta0lkg9xemgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "4z3ua6ndw3emgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "63f9sq2ovklmgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "uevzzqy3rzsmgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "is5a19vse6qmgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "c7mi7ysawcumgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "0trkh6jdv1ymgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ue01fvttwumgyxobks",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "d5i88khh76emgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "hbwqs9q0p4nmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "cb7ic7eij1jmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "z872xcpp2smgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "t71o7z19d2mgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "y6jrolm669rmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "r8aapjtc6wjmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "885yipv46wmmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "03yakogdv44wmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ew9oy1670mpmgyxobkt",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "m7wqn5wj22nmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "diwq8wqenucmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "orvl55yz2gfmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ew7w5h6zhzemgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "zbxk8vxw4ymgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "3j5zlb2tgpwmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "rxc35mukn3rmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "26hud6713dnmgyxobi5",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "xbmacvd1homgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "y53tdzeeslmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "5j0e57mutbbmgyxobku",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "gyyx09j46gcmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "zg3g8esexyamgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "7gzbikurl6fmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "3cid4kyqc69mgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "9e59r4bnrzmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ymq9worbuvmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "253485asy1hmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "p7l7b1alcdmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "tvgtisuwratmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "mx5nicxjqznmgyxobkv",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "3cf2htvgsmhmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "y87ttljnvnmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "xjpu5vhy56hmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "higf8cf39nmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "wnaigbb39hmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "8bh5hniyerymgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "rawukbk5tchmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "0ckpz88swoximgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "v2vuq8cirpjmgyxobkw",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "dog5kp4iu2omgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "e6qkxhbz65nmgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "aams0vdthvfmgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "20uyq9kg20rmgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "rfv1ou95dkamgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "atws1kd82s4mgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "13ahjh2tjr5mgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "pcghd4pffilmgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "rq2q0asnb9mgyxobkx",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "zm4b7xsm348mgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "l93r0s575mmgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "jmwm3181qnpmgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "4qq8t28tuvlmgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "qjikblfpwsmgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "sufara5rd77mgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "dxs2ohwwuxnmgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "oiu39lf83r7mgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ti4skm43gfimgyxobky",
+    "tenant_slug": "demo",
+    "room_id": "2sj5dzhodtamgyxobi5",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "svb1x9zme98mgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "8ie1omsd7oomgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "drlrr2t0uqnmgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "fmro1y2twblmgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "t0ixrhz20imgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "kodjbc6xmamgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "pw2k0hu6rtfmgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "dhmgqpecn8mgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "yxceir5x4kmgyxobkz",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "d4hv99hwns9mgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "gmuyqhqsk9qmgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "gk5zb1ywcmmgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "43e7oaw5hu9mgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "znng9l9mmidmgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "1edg0izwfelmgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "uufwln482t9mgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "5covnii2d6umgyxobl0",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "n4iadbtft6jmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "irsxuhziugmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "93vxk3cwfbqmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "95qdolmts4mmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "5fziwrmzawxmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "wfibvr7swyamgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "z4musq4k5qgmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "1vpy7bz9213mgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "baabeqoly1tmgyxobl1",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "plih6otb5npmgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "g8nqbv3ftdlmgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "r8ms0t49iymgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "o87tyvunr2mgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "er11f9h3u9rmgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "qlgwge2lh9mgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "yxf4n4qhimmmgyxobl2",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "96mp3fa4z6omgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "utnios6bgh9mgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "mzjrhvd0l1jmgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ycl5gq0qt2gmgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ncjd85t4vukmgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ysg59o3ncmmgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ywowh2mz98nmgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "fc2bgfy0zb9mgyxobi5",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "chgwvd2e4q4mgyxobl3",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "ktlf58rj0edmgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "542n1oreeyymgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "zsvp96g1feamgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "x3ha249m8zmgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "mi5n65ufpramgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "invb94nihxamgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "bzzjc4k40oemgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "cnl9gf3t4ybmgyxobl4",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "jdlwtgwmfynmgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "bmsm9lcf87emgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "o79znx27jtmgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "dkz1o4ejlacmgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "77wgazlfvtbmgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "gwiewv3mxk9mgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "7zaw1qymw1fmgyxobl5",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "dsq0ucgsculmgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "7pa2ka148qomgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "s0hq99xt2p8mgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "wk66m45qnsamgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "wk7dsu851rmgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "c5may57lysmgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ybdjfsyp2omgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "8202fb4t4wdmgyxobl6",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "wsdclykps8tmgyxobl7",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "bb05899i749mgyxobl7",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "w904xzo932mgyxobl7",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "x6s9ir8vy2mgyxobl7",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7ignl8m2lqfmgyxobl7",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "uo9qy2qej2cmgyxobl7",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "3ecamfw0zn9mgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "8n40cyi3m2mmgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "27e835lxh21mgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "m02w553gszgmgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "h3o3q36inm8mgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "77omyelw7gnmgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "gyrxttbt37hmgyxobl8",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ph0zuedactcmgyxobl9",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "4wgfpva1ja9mgyxobl9",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "vhearwomc7hmgyxobl9",
+    "tenant_slug": "demo",
+    "room_id": "7e1fqi3t5hqmgyxobi5",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  }
+]

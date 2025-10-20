@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ppqlh6v8z8mgyxobi3",
+    "tenant_slug": "demo",
+    "code": "MATH",
+    "name": "Mathematics",
+    "is_lab": 0
+  },
+  {
+    "id": "h9qsiyp6khsmgyxobi3",
+    "tenant_slug": "demo",
+    "code": "SCI",
+    "name": "Science",
+    "is_lab": 1
+  },
+  {
+    "id": "mz0h5ls88tlmgyxobi3",
+    "tenant_slug": "demo",
+    "code": "ENG",
+    "name": "English",
+    "is_lab": 0
+  },
+  {
+    "id": "1pv1e4weorhmgyxobi3",
+    "tenant_slug": "demo",
+    "code": "SOC",
+    "name": "Social Studies",
+    "is_lab": 0
+  },
+  {
+    "id": "d2h7au8kda5mgyxobi4",
+    "tenant_slug": "demo",
+    "code": "LANG",
+    "name": "Language",
+    "is_lab": 0
+  },
+  {
+    "id": "phwlia5c7tgmgyxobi4",
+    "tenant_slug": "demo",
+    "code": "COMP",
+    "name": "Computer Science",
+    "is_lab": 1
+  }
+]

@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "k2khj0bdmdmgyxobi8",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "lem8ishs4qomgyxobi8",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "l5a5vzq2xjrmgyxobi8",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "xt6cdo0rtkdmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ipwqulv0h7mgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "tq0k02ad4bmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "emi7ggc50ljmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "rol9n7hmtcmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "xjobcfhcx6mgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "5hhlhh2wf7pmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "zdlwpitf9simgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "0y9j98euv9umgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "x9lks1fvjqgmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "gf1ta1l1fmjmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "us9wul6lo18mgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "17c4h5xncw5mgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ne2zdxtj7u8mgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "y9zt1cvz9bmgyxobi9",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "tkakm44olrgmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "g7pup9s5gvdmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "sgnan0nyjakmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "bjd1xils99cmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "e3ymp6ixf6smgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "0tx3z3hiz4vpmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "lzwxrgnsdzomgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "ht16lh2106kmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "v5islywaexcmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "pck8jaxzsimgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "4h5r9ik7ogwmgyxobia",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "m6y0hdma4jmgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "37g1gscd49dmgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "nxufeqqel7mgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ap268pkunumgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "pn8kl3p3qkmgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "bp260afq5xtmgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "624w7syd9z5mgyxobib",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "2jf6illgrbxmgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "o9087qhv4jqmgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "aizl63m163mgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ejz0emrq8jmgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "vonojefczmmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "a3evp0k1q38mgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "cgmhv1ckxcwmgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "gkx50oqvc4lmgyxobic",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "ai0l1diert4mgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "jqbg8cnsezqmgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "dbpmizc39omgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "fna8im133ffmgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "gc9vjv3np3nmgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "1cbk8wgoqkvmgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "f3klkmd8ejemgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "7zxljtro2smgyxobid",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "tqg1sv02demgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "8riar5quo77mgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "w5fgnkwba4amgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "tp89bwiihwcmgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "dofs2ua611qmgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "d2ye30twa2bmgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "s1nh01ypjomgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "p73dygusljfmgyxobie",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "jevwkwefmghmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "fnk8uc3kouomgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "wbh1a5t5ornmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "qe0spnqrowmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "tq3tbbl7vhbmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "6gbx24etmqmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "o6src3c9kzemgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "fywiqniu2qgmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "7ihwdii3hxmgyxobif",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "rptynt48vhlmgyxobig",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ndz70cuhd2gmgyxobig",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "7syacb4o62pmgyxobig",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "p5reekgvp9mmgyxobig",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "l8aztlg7iarmgyxobig",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "yhfjssgkoamgyxobig",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "75c17s5214mgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "r7y8865l4gmgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7sdn6vs63g3mgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ddob0e6lyg9mgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "owojvig2gvamgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "b8l5iukwx7cmgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "ogx1now1zklmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "lzhh0hpx1agmgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "y0egrpnr6ymgyxobih",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "fwtax5fki7mgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "cg8h618t8jcmgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "gt3b5j42urbmgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "22pc0tr8mfemgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "yd6bq3seiz7mgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "nmreuhewkrdmgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "j6vy97akgmrmgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "ww3lsg7c1almgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "wohkm3lx309mgyxobii",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "9w9em2xfocmgyxobij",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "cseos6dxpugmgyxobij",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "fjem6tecr1qmgyxobij",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "3nc60kq5ajbmgyxobij",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "nfxajvt96ammgyxobij",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "h2dcsqknexdmgyxobij",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "4dfhgy7zozpmgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "t6e3pwpno4smgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "bt7p1smcsesmgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "x4zmbi8gj1mgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "olkgvmidhakmgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ttos5k2j4z8mgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "cvi4cbf84dimgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ggh8n03npxemgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "bcgijyewlromgyxobik",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "re061v4glvdmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "kobr05d28icmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ikmrq53q4ujmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "fdw9qpdd6mgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "2wfsgj5w1bamgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "vqvmp376p6hmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "a7i3jcphnahmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "3e99n8yjxm4mgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "1h64l9rgn0rmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "944ri66o07nmgyxobil",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "svxqt7ug4xsmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "lmeufyqoxcfmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "7zhbaxmsrwmmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "h7grgmksgdmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "azo1rdek2jumgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "n9c0p8riqgdmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "v2ocj26hpmimgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "g3b4792tk2wmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "tel128kcvpgmgyxobim",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "v8w4zh8qcfkmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "tv3qa42x6lmmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "kmmgmtky1kfmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "94jyv1p846omgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ho4edig042lmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "uybrti33uwcmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "2vgi64mewnnmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "dsaqsbl2dlgmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "aaq65gj04bnmgyxobin",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "61ar16tuqqwmgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "pngs0ujc6qmgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "48l4jj6trommgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "y54rxfqwnsmgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "x5m0jhr6hkmgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "w5hdiuei988mgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "m881f7xichjmgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "r1zc1iye88mgyxobio",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "p6jji6ajjsmgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "kq2aimsef4cmgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "tz72heubhjomgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "kf0xryivv2qmgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "l9e6d283r5mgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "5hbeg65eknamgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "hqtfxv1kj7pmgyxobip",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ywslm8f2q5lmgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "xw43ro41gdmgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "mfot51eau4amgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "y5hv40qlkhnmgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "1qq8yvp50veimgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "mlkowcv9ucmgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "38bmz84kdb7mgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "nvbiim911wmgyxobiq",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "fq6us2b2smlmgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "k8zy975ojamgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "lzoyqkcud6omgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "42klv00v2p4mgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "jjam3xulh4mmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "35ih8ronpcsmgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "02jrc0facszgmgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "gey22uylbvmgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "392gedlpnlpmgyxobir",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "8jk9g4g1fj5mgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "pr2389h4vgdmgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "xu7h6o3zyikmgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "nxbret3llmmgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "llzt63mpjamgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "i6zjcpn1ffmgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "9xhzfvhh1cmgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "dexpfvfi5blmgyxobis",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ximqym8g69mmgyxobit",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "bavrxepqhjrmgyxobit",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "t29k8sh3lhmgyxobit",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "kmyv8760c4lmgyxobit",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "4360dakaptwmgyxobit",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "gii7lo6nsvcmgyxobit",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "i8xtne4joxpmgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "ec9ccery78omgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "0w98iz9w9p7omgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "5tqynk5w70rmgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "gjx9cl25fwmgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "a9flfd19o3omgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "9dkq4vmt9somgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "t1k6l06jtl9mgyxobiu",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "5wh8bd0uslmgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "uh13t6skg0pmgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "vvovfeprccsmgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "32815j0tjs2mgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "y0um04mkd0nmgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "r6omll1603rmgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "6m4kp9lvdqamgyxobiv",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "9dsdaf3f2uemgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "s90kxhzqcagmgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "gqax78yaj2dmgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "01cj4ajhgwrmgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "c6qfj9rotclmgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "rqm4f2grd0bmgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "i6m1vox3oomgyxobiw",
+    "tenant_slug": "demo",
+    "teacher_id": "mhe7dwlc10mmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "qafu1c7qk1mgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "k3nqj9gqhjmgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "wcpi1un0m6mgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "b6mrdb771lbmgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7j79qu6z214mgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "4wp2cnhsyvvmgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "m6ei5mxrxrjmgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "vx6qvfgls3hmgyxobix",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "88j6i6gai34mgyxobiy",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "dj90ddknsxmgyxobiy",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "u1pu37ixmdpmgyxobiy",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "s5j0ln3k7hjmgyxobiy",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "jind004woyimgyxobiy",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "zb0o898wfpmgyxobiy",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "xkx0tzmqthmgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "wxtdjgwx44emgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ufwvas5qvzmgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "l2dk2ko1gqamgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "z770mzk66amgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "wqzd22qeurmgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "dx1ivir1clsmgyxobiz",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "lknvhhm7ygamgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "h35uav3jv55mgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "akircp3ae6mgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "fco8xlhutnimgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "aouuu7w0y7mgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "tr9y3rl0fvmgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "bsmd8o2lunqmgyxobj0",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7lv3gg7sb2cmgyxobj1",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "lf0978q5188mgyxobj1",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "5arud9bnl1nmgyxobj1",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "pu8ireo0ejsmgyxobj1",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "0nhcubmr9v3fmgyxobj1",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "bm076qh72bvmgyxobj1",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "fuq7h9cki1mgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "vh5bcouth2mgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "4x3qzlgqcowmgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ij0wwq7txommgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "o9p5x6211smgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "q9acgxus0wmgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "jz4fhev6u6mgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "mtviary5jcamgyxobj2",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "z9ibnjly6wmgyxobj3",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "lwiac4x3dycmgyxobj3",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "mb57z9lgybomgyxobj3",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "dronmvaj93vmgyxobj3",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "rl9xy2nud3omgyxobj3",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "rfc3p480xxjmgyxobj3",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "v7dmn8citnmgyxobj4",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ez4y4dgvkxdmgyxobj4",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "gki42fn7evhmgyxobj4",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "u80pqvtobsmgyxobj4",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "a49l8ji7g6rmgyxobj4",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "bfbhzjo1gomgyxobj4",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "kw9opqh9pfcmgyxobj5",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "qi688j5vfvomgyxobj5",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "xhz760rx9mmgyxobj5",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "famiba73hvimgyxobj5",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "j0gzilakndmgyxobj5",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "1ddvd4kqkx4mgyxobj5",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "ptaltk8cc6gmgyxobj6",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "eqqokewb6mdmgyxobj6",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "mzcl22d8lvcmgyxobj6",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "29dnq5696bkmgyxobj6",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ge3sqaaisfmgyxobj6",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "q8wid5a8cqmmgyxobj6",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "v202mokdyzcmgyxobj7",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "wwnlyder3gmgyxobj7",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "89v1eiajpcsmgyxobj7",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "fhfik81o595mgyxobj7",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "d7mog5yv19nmgyxobj7",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "u9sxz50dh0jmgyxobj7",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "umaw4qvhn4bmgyxobj8",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "3qjna9qfpp7mgyxobj8",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "idgrj8jnynmgyxobj8",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "6a21rwb1aalmgyxobj8",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "mq89ub8vc9smgyxobj8",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "yk2fs7cqppsmgyxobj8",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "5ungevs1k1dmgyxobj9",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "0zzrl0vnp8ugmgyxobj9",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "nktvnz7t6mmgyxobj9",
+    "tenant_slug": "demo",
+    "teacher_id": "9t4wnl1r7tdmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "icgdtzrnxwmgyxobj9",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "eefbg7fyqedmgyxobj9",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "274w24srfsmgyxobj9",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "46abywsax0omgyxobja",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ylg2a5smt7mgyxobja",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "5uficeeyiodmgyxobja",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "2q8kra1g208mgyxobja",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "d6wb1uz47vmgyxobja",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "3fo8uewz293mgyxobja",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "l5hdg29ndmjmgyxobjb",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "yer0eug5bumgyxobjb",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "scdhueukgbqmgyxobjb",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "t7bi4sk7conmgyxobjb",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "2dwy035yf92mgyxobjb",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "6ku26does0mmgyxobjb",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "4dye437omc3mgyxobjc",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "zsz7p4mlp1mgyxobjc",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "hjf434rb8emgyxobjc",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "5zrsqcu1pp8mgyxobjc",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "l8womzj7hrgmgyxobjc",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "evzl19x6s6wmgyxobjd",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "jmrme5xddgfmgyxobjd",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "9bn7y35ug6fmgyxobjd",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "vg360t8bhulmgyxobjd",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "5tfe2f3svogmgyxobjd",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "5tvd5dtegx5mgyxobjd",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "294t7hk2z2cmgyxobje",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "gosjuwx2mkvmgyxobje",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "c3cmek6tcenmgyxobje",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "hgdakv8w335mgyxobje",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "y34tphrv7kamgyxobje",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "rtip0as5f4mgyxobjf",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "gnqsxb6ta3hmgyxobjf",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "2e91di6abk5mgyxobjf",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "094aeraf7vxfmgyxobjf",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "hv6bu30jiwamgyxobjf",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "hzw7naqkglcmgyxobjg",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "eagtov8f1nmgyxobjg",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "iilvx48hmmmgyxobjg",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "mnt6jrlfggmgyxobjg",
+    "tenant_slug": "demo",
+    "teacher_id": "256rdqd7gwwmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "dkgsggy5ps9mgyxobjg",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "xrc14kma42mgyxobjh",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "f00n5lczvc9mgyxobjh",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "1ercpkbvkhkmgyxobjh",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "dgdjvjbydbvmgyxobjh",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "uhzy33g8mbmmgyxobjh",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "s6o4fmcb5wbmgyxobji",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "dws5p36b31mgyxobji",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "o475gzy7a8lmgyxobji",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "zjzs8tsl7gsmgyxobji",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "qd0il3sn57dmgyxobji",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "exzbtgqbpyamgyxobjj",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "3uhadmp7qv9mgyxobjj",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "7b1ijqovr4tmgyxobjj",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "od5ggmrsc0smgyxobjj",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "kt5z35gu4gmgyxobjj",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "eoeunvv5pvpmgyxobjj",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "5kbll6skx0hmgyxobjk",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "bwntlwhyoumgyxobjk",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "oweau9ynx8bmgyxobjk",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "4o59xru4ln9mgyxobjk",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "vmizb06deomgyxobjk",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "v1kxf8ca13qmgyxobjl",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "uyp5yn42l5mgyxobjl",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "3yrb3hg1ilimgyxobjl",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "gy9g6k5gvgmmgyxobjl",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "5s11qqmhnqqmgyxobjl",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "08c41qm0yqy5mgyxobjm",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "pfcjigu1rbbmgyxobjm",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "pgun6resvncmgyxobjm",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "uhatq3v4pjkmgyxobjm",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "a4oxwt76lf8mgyxobjm",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "20uzmk7elp9mgyxobjn",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "eof88w0hbtjmgyxobjn",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "txn7kagjqsbmgyxobjn",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "9l8vg87img4mgyxobjn",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "hg5lz7yy0blmgyxobjn",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "4qcgtiobbvimgyxobjo",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "rp6apvev6vcmgyxobjo",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ggb0i5fhhcumgyxobjo",
+    "tenant_slug": "demo",
+    "teacher_id": "cdjsordpfdtmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "og7n1yo9blmgyxobjo",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "w3wa1z84z3mgyxobjo",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "hr9yhq4255amgyxobjp",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "lpwvjmfcj9qmgyxobjp",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "6qexaxdpdilmgyxobjp",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "omd9umxptqhmgyxobjp",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ls976sy8manmgyxobjp",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "j248uvc5kcmgyxobjq",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "jfzc3mwzzb7mgyxobjq",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "9w0inldtgdmgyxobjq",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "g278pz7gxzpmgyxobjq",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "pho4vw0jjmgyxobjq",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "t19gwbgbo7gmgyxobjr",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "5hqlpno3ah6mgyxobjr",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "ztj4d2b2fagmgyxobjr",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "nz5kzlf4xrrmgyxobjr",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "ilbh1vo58ocmgyxobjr",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "wirl104ph8mgyxobjs",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "doazm9etbh5mgyxobjs",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "k8oz5r755umgyxobjs",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "9es7jl5cvhlmgyxobjs",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "5t6d4yvsyc2mgyxobjs",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "6mkql4rmyp4mgyxobjt",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "67rr4ifqduomgyxobjt",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "pdvd6au07hqmgyxobjt",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "9nc9w1n6tmomgyxobjt",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "f8r3ulobx1fmgyxobju",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "oa99mot9dhqmgyxobju",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "1e7q5nybkfymgyxobju",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "xyf846fcpumgyxobju",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "5ka3bvcsqc5mgyxobju",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "pjgjoekfeedmgyxobjv",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "dshq4hdg7nmgyxobjv",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "1wh327tlywxmgyxobjv",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "omo8fby72eamgyxobjv",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "hkxpcsu7srmmgyxobjv",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "8awvpn4z9odmgyxobjw",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "x3piafh5vaqmgyxobjw",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "bibqxmd5htfmgyxobjw",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "ln3onw37xiqmgyxobjw",
+    "tenant_slug": "demo",
+    "teacher_id": "fyyd9a3sfoqmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "es8ubodsdylmgyxobjx",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "vrlrgajmecmgyxobjx",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "6xdx2wa8j75mgyxobjx",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "cxdfyi1wjlmgyxobjx",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "1yyazqczu05mgyxobjx",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "avqq8necb1qmgyxobjy",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "bie8qy21zbomgyxobjy",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "aa8014i2yoemgyxobjy",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "9fd8qh5o8bmgyxobjy",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "8asezjirxaimgyxobjz",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "aagxd59toqgmgyxobjz",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "ot77yv416e8mgyxobjz",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "d3iud8f8xcbmgyxobk0",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "3srkb1gyiuxmgyxobk0",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "5t2uaxk1w0tmgyxobk0",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "cfi0t29to1bmgyxobk0",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "9e5mbzhld75mgyxobk1",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "zx0tmlk51hmgyxobk1",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "2z0z6cg92ovmgyxobk1",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "8tt8bjsxpn8mgyxobk1",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "7dzcm8top6pmgyxobk2",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "67x451iz7drmgyxobk2",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "db66h1rj3vvmgyxobk2",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "xm0l8l17kkmgyxobk2",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "090cb26gn7demgyxobk3",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "ha12r5sxsr6mgyxobk3",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "60n2c0kd0mmgyxobk3",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "cc55804gohvmgyxobk4",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "5c54xgqlwckmgyxobk4",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "8z0hf2c0o5xmgyxobk4",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "j4qs9r52l5mgyxobk4",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "zivofmi9qumgyxobk5",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "3fevvr83e2emgyxobk5",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "xinttj2r5vomgyxobk6",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "2veb464jqwbmgyxobk6",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "2shggpwm2lzmgyxobk7",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "nyo1bkuz8umgyxobk7",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "aqn0cq6m48bmgyxobk7",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "4lb770v9zr7mgyxobk7",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "3e5ng9awh0vmgyxobk8",
+    "tenant_slug": "demo",
+    "teacher_id": "xlv6uo0se4qmgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "37kt5vxk4jbmgyxobk8",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "cvuj4k9t5tjmgyxobk8",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "usr6te4gircmgyxobk9",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "5q52niu2x29mgyxobk9",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "ae04fqdfe1rmgyxobk9",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "ipbklajm3lgmgyxobk9",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "vlbj35z7pmrmgyxobka",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "7oj5voocx5bmgyxobka",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 0,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "yohn6fwwtrmgyxobka",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "j1vf0k06l9fmgyxobka",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "fo7ec7h5gcqmgyxobkb",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "3mko93vp0yqmgyxobkb",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "riuz3yuwickmgyxobkb",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "vqdphwc5wzjmgyxobkb",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "mwaw090pr69mgyxobkc",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "75hpgzorgb4mgyxobkc",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 1,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "wtn2xlimpzamgyxobkc",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "93a0igrvl88mgyxobkc",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "v5nc8hwyijhmgyxobkd",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "bz7vhbatu4kmgyxobkd",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "51umr0jqmrlmgyxobkd",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "cj45n8t0qsqmgyxobke",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "1riwck1v0xomgyxobke",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "k2q87cn80bmgyxobke",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 2,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "0sc2boechq7mgyxobke",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "gqu2dmeigumgyxobkf",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "bu97p83010bmgyxobkf",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "5r6cuf8xxhemgyxobkf",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "p6olhj496tomgyxobkf",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "nfur4t90j6kmgyxobkg",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "nhhx87aitfomgyxobkg",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "04yk91pl9ygamgyxobkg",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 3,
+    "period": 7,
+    "available": 1
+  },
+  {
+    "id": "e9uj9ax90h4mgyxobkg",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 0,
+    "available": 1
+  },
+  {
+    "id": "ci436wp87o9mgyxobkh",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 1,
+    "available": 1
+  },
+  {
+    "id": "uzlcvbwdbfmgyxobkh",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 2,
+    "available": 1
+  },
+  {
+    "id": "cjmm4piicc9mgyxobkh",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 3,
+    "available": 1
+  },
+  {
+    "id": "rymt2sse8pgmgyxobkh",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 4,
+    "available": 1
+  },
+  {
+    "id": "wcthjlkhlsmgyxobki",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 5,
+    "available": 1
+  },
+  {
+    "id": "vobs77ooz5qmgyxobki",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 6,
+    "available": 1
+  },
+  {
+    "id": "g3xs05e6c6cmgyxobki",
+    "tenant_slug": "demo",
+    "teacher_id": "jq5lvba3gromgyxobi4",
+    "day": 4,
+    "period": 7,
+    "available": 1
+  }
+]

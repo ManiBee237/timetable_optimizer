@@ -1,0 +1,9 @@
+[
+  {
+    "tenant_slug": "demo",
+    "teacher_gap": 3,
+    "uneven_subject": 2,
+    "room_mismatch": 4,
+    "early_or_late": 1
+  }
+]

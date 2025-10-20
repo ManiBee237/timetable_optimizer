@@ -1,136 +1,135 @@
 import { useEffect, useMemo, useState } from 'react'
-import Card from '../components/Card'
 import { jget, jpost } from '../lib/api'
+import Spinner from '../components/Spinner'
 
 const DAYS = ['Mon','Tue','Wed','Thu','Fri']
-const PERIODS = 8
-
-const subjectTone = (name='')=>{
-  const n = name.toLowerCase()
-  if (n.includes('math')) return 'mint'
-  if (n.includes('sci'))  return 'sky'
-  if (n.includes('eng'))  return 'peach'
-  if (n.includes('soc'))  return 'grape'
-  if (n.includes('lang')) return 'pink'
-  if (n.includes('comp')) return 'blue'
-  return 'sky'
-}
-const bgFor = (tone)=> ({
-  mint:'bg-candy-mint/30 border-candy-mint/70',
-  sky:'bg-candy-sky/30 border-candy-sky/70',
-  peach:'bg-candy-peach/30 border-candy-peach/70',
-  grape:'bg-candy-grape/30 border-candy-grape/70',
-  pink:'bg-candy-pink/30 border-candy-pink/70',
-  blue:'bg-candy-blue/30 border-candy-blue/70'
-}[tone] || 'bg-candy-sky/30 border-candy-sky/70')
+const DEFAULT_PERIODS = 8
 
 export default function Optimize({ weekStart }){
-  const [solutionId, setSolutionId] = useState(null)
-  const [grid, setGrid] = useState({})
-  const [classes, setClasses] = useState([])
-  const [onlyScheduled, setOnlyScheduled] = useState(false)
   const [loading, setLoading] = useState(false)
+  const [solutionId, setSolutionId] = useState(null)
+  const [rows, setRows] = useState([])
+  const [classes, setClasses] = useState([])
 
   async function loadClasses(){
-    const j = await jget('/api/crud/classes')
-    const rows = (j.rows||[]).slice().sort((a,b)=>{
-      if (a.code===b.code) return String(a.section).localeCompare(String(b.section))
-      return String(a.code).localeCompare(String(b.code), undefined, { numeric:true })
-    })
-    setClasses(rows)
+    const j = await jget('/api/crud/classes?limit=1000')
+    const list = (j.rows||[]).slice().sort((a,b)=> String(a.code+a.section).localeCompare(String(b.code+b.section)))
+    setClasses(list)
   }
+
   async function solve(){
     setLoading(true)
     try{
-      const j = await jpost('/api/optimize/solve', { week_start: weekStart, strict: true })
-      setSolutionId(j.solution_id)
-      if (j.solution_id) await load(j.solution_id)
-    } finally { setLoading(false) }
+      await jget(`/api/demand/forecast?week_start=${weekStart}`)
+      const res = await jpost('/api/optimize/solve', { week_start: weekStart, strict: true })
+      setSolutionId(res.solution_id || null)
+      if (res.solution_id){
+        const k = await jget(`/api/optimize/solution/${res.solution_id}`)
+        setRows(k.rows || [])
+      } else {
+        setRows([])
+        alert('No feasible solution for this week.')
+      }
+    } finally {
+      setLoading(false)
+    }
   }
-  async function load(sid){
-    const j = await jget(`/api/optimize/solution/${sid}`)
-    const byClass = {}
-    ;(j.rows||[]).forEach(r=>{
-      byClass[r.class_id] ||= Array.from({length:5},()=>Array(PERIODS).fill(null))
-      byClass[r.class_id][r.day][r.period] = r
-    })
-    setGrid(byClass)
-  }
-  useEffect(()=>{ loadClasses() }, [])
-  useEffect(()=>{ if (solutionId) load(solutionId) }, [solutionId])
 
-  const visibleClasses = useMemo(()=>{
-    if (!onlyScheduled) return classes
-    const scheduledIds = new Set(Object.keys(grid).map(Number))
-    return classes.filter(c => scheduledIds.has(c.id))
-  }, [classes, grid, onlyScheduled])
+  async function reload(){
+    if (!solutionId) return
+    const k = await jget(`/api/optimize/solution/${solutionId}`)
+    setRows(k.rows || [])
+  }
+
+  useEffect(()=>{ loadClasses() }, [])
+  useEffect(()=>{ if (solutionId) reload() }, [solutionId])
+
+  const periods = useMemo(()=>{
+    let maxP = DEFAULT_PERIODS - 1
+    for (const r of rows) maxP = Math.max(maxP, r.period)
+    return Math.max(DEFAULT_PERIODS, maxP + 1)
+  }, [rows])
+
+  // class -> 5 x periods grid
+  const byClass = useMemo(()=>{
+    const map = new Map()
+    for (const r of rows){
+      const cid = String(r.class_id)
+      if(!map.has(cid)) map.set(cid, Array.from({length:5},()=>Array(periods).fill(null)))
+      const g = map.get(cid)
+      if (g[0].length < periods){
+        for (let d=0; d<5; d++) g[d] = [...g[d], ...Array(periods - g[d].length).fill(null)]
+      }
+      g[r.day][r.period] = r
+    }
+    return map
+  }, [rows, periods])
 
   return (
-    <div className="space-y-6">
-      <Card title="Class Timetables 🧩" subtitle="Colorful slots by subject" tone="mint"
-        actions={
-          <>
-            <button onClick={solve} className="px-4 py-2 rounded-bubble border bg-white/70 hover:brightness-105 text-sm">Solve Timetable</button>
-            <label className="text-xs flex items-center gap-2 bg-white/60 px-3 py-2 rounded-bubble border">
-              <input type="checkbox" checked={onlyScheduled} onChange={e=>setOnlyScheduled(e.target.checked)} />
-              Only show scheduled classes
-            </label>
-          </>
-        }>
-        {visibleClasses.length === 0 && (
-          <div className="text-sm opacity-60">No classes yet — add some in Admin or uncheck the filter.</div>
-        )}
+    <div className="space-y-4">
+      <div className="flex items-center gap-3">
+        <button onClick={solve} className="px-3 py-2 rounded-xl border text-sm">Solve Timetable</button>
+        {loading && <Spinner label="Solving..." />}
+        {solutionId && <div className="text-xs opacity-70">Solution: {String(solutionId).slice(0,8)}…</div>}
+        <div className="ml-auto text-sm opacity-70">Week: {weekStart}</div>
+      </div>
 
-        {visibleClasses.map(c=>{
-          const cid = c.id, label = `${c.code}-${c.section}`
-          const classGrid = grid[cid] || Array.from({length:5},()=>Array(PERIODS).fill(null))
+      {/* COLUMN LAYOUT: one card per class, stacked vertically */}
+      <div className="flex flex-col gap-4">
+        {classes.map(c => {
+          const cid = String(c._id || c.id)
+          const grid = byClass.get(cid) || Array.from({length:5},()=>Array(periods).fill(null))
+          const title = `${c.code}-${c.section}`
+
           return (
-            <div key={cid} className="rounded-bubble border border-[rgb(var(--border))] bg-white/70 dark:bg-gray-900/60 overflow-auto mb-6 shadow-bubble">
-              <div className="px-4 py-3 font-display bg-gradient-to-r from-candy-sky/40 to-candy-blue/40">
-                Class {label} <span className="text-xs opacity-70">(ID {cid})</span>
-              </div>
-              <table className="min-w-full text-sm">
-                <thead>
-                  <tr className="bg-white/60 dark:bg-gray-900/60">
-                    <th className="p-2 text-left w-16">Day</th>
-                    {Array.from({length:PERIODS}).map((_,p)=><th key={p} className="p-2 text-left">P{p+1}</th>)}
-                  </tr>
-                </thead>
-                <tbody>
-                  {DAYS.map((dLabel,d)=>(
-                    <tr key={d} className="border-t border-[rgb(var(--border))]">
-                      <td className="p-2 font-medium">{dLabel}</td>
-                      {Array.from({length:PERIODS}).map((_,p)=>{
-                        const cell = classGrid[d][p]
-                        if (!cell) return <td key={p} className="p-2 align-top"><div className="text-xs opacity-30">—</div></td>
-                        const tone = subjectTone(cell.subject_label)
-                        return (
-                          <td key={p} className="p-2 align-top">
-                            <div className={`rounded-bubble border p-2 shadow-bubble ${bgFor(tone)}`}>
-                              <div className="font-semibold">
-                                {cell.subject_label} {cell.is_lab ? '🧪' : '📘'}
-                              </div>
-                              <div className="text-xs opacity-80">
-                                👩‍🏫 {cell.teacher_name} • 🚪 {cell.room_label} {cell.hard_lock?'• 🔒':''}
-                              </div>
-                              <details className="text-xs mt-1">
-                                <summary className="cursor-pointer">Why?</summary>
-                                <ul className="list-disc pl-5 mt-1 space-y-1">
-                                  {cell.why?.map((w,i)=><li key={i}>{w}</li>)}
-                                </ul>
-                              </details>
-                            </div>
-                          </td>
-                        )
-                      })}
+            <div key={cid} className="rounded-2xl border bg-white shadow-sm overflow-hidden">
+              <div className="px-3 py-2 font-semibold bg-gray-50">{title}</div>
+              <div className="overflow-auto">
+                <table className="min-w-full text-sm">
+                  <thead>
+                    <tr>
+                      <th className="p-2 text-left w-16">Day</th>
+                      {Array.from({length:periods}).map((_,p)=>(
+                        <th key={`phead-${cid}-${p}`} className="p-2 text-left">P{p+1}</th>
+                      ))}
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {DAYS.map((dLabel,d)=>(
+                      <tr key={`row-${cid}-${d}`} className="border-t">
+                        <td className="p-2">{dLabel}</td>
+                        {Array.from({length:periods}).map((_,p)=>{
+                          const cell = grid[d][p]
+                          return (
+                            <td key={`cell-${cid}-${d}-${p}`} className="p-2 align-top">
+                              {cell ? (
+                                <div className="rounded-xl border p-2 space-y-1">
+                                  <div className="font-medium">{cell.subject_label}</div>
+                                  <div className="text-xs opacity-70">
+                                    {cell.teacher_name} • {cell.room_label} {cell.hard_lock?'• 🔒':''} {cell.is_lab?'• Lab':''}
+                                  </div>
+                                  <details className="text-xs">
+                                    <summary className="cursor-pointer">Why this slot?</summary>
+                                    <ul className="list-disc pl-4 mt-1 space-y-1">
+                                      {(cell.why||[]).map((w,i)=> <li key={`why-${cid}-${d}-${p}-${i}`}>{w}</li>)}
+                                    </ul>
+                                  </details>
+                                </div>
+                              ) : (
+                                <div className="text-xs opacity-40">—</div>
+                              )}
+                            </td>
+                          )
+                        })}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
             </div>
           )
         })}
-      </Card>
+      </div>
     </div>
   )
 }

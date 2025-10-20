@@ -1,0 +1,542 @@
+[
+  {
+    "id": "g0qwjsrsgjmgyxph6h",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "h805k0eonrwmgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "981im2rgzn4mgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "j6ups2zm4lmgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "mqgm1sl3yrmgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "54r5gyluu3kmgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "ydp6vb3nawmgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "meoclqgz08mgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "o5n04k89b4mgyxph6i",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "5wwy8xrw7iwmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "2oqy4uqqck1mgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "8uci560zgr5mgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "xkv3s79zo4cmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "dk2dra7zl5cmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "e5nf5j10bcamgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "xld8y7tr8wmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "hh97e5i02rmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "zvqb8twv48lmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "r9ubu7e0uxmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "awf9b259fvvmgyxph6j",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "sk1gz044mbmgyxph6k",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "h4d9rgvxlklmgyxph6k",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "0vfr3ehofqanmgyxph6k",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "8mwbi05y2bcmgyxph6k",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "t32vql1ffm8mgyxph6k",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "rbjipkz1ikjmgyxph6k",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "t55544pygffmgyxph6l",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "kje1b830gymgyxph6l",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "mmvpxlci4ofmgyxph6l",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "06akfu4bqsiymgyxph6l",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-20",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "3pvj1bl1zj7mgyxqa0q",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "m6i6aw99nzmgyxqa0q",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "zqqkk1mk6oomgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "gkfi1btwusmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "q9fxf2fdukmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "8ihfdxbinftmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "bt0jfkqu1ajmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "lpe5t1mdw5hmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "edmvzrshiebmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "jwsmnd39kz9mgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "dul2axl7gnmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "d6fxg17r52nmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "rl8d16ct0bhmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "62exvsxxs2xmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "qltsb8lgc9mgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "xlheusifwt8mgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "tyuhvx93btrmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "db35kpea0jmmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "25i9zyu95dwhmgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "ezkicmora2mgyxqa0r",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ehi6q21w18jmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "17nrpdfvv51mgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "5uxdks5kh4emgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "lq4xtgr84gmmgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "s2mmr79e26mgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "oxfszw32wtmgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "6bli5m01plumgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "ihfpg627qvmgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "96zhzfn7ktmgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "ppqlh6v8z8mgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "azqdhc2swmgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "h9qsiyp6khsmgyxobi3",
+    "periods_required": 2,
+    "source": "manual"
+  },
+  {
+    "id": "273jmczqsvzmgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "mz0h5ls88tlmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "k1ieey20k6mgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "1pv1e4weorhmgyxobi3",
+    "periods_required": 5,
+    "source": "manual"
+  }
+]  {
+    "id": "9mmc7w8s7n8mgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "d2h7au8kda5mgyxobi4",
+    "periods_required": 5,
+    "source": "manual"
+  },
+  {
+    "id": "si19l27fzlmgyxqa0s",
+    "tenant_slug": "demo",
+    "week_start": "2025-10-02",
+    "class_id": "akm1adxb8z4mgyxobi3",
+    "subject_id": "phwlia5c7tgmgyxobi4",
+    "periods_required": 2,
+    "source": "manual"
+  }
+]

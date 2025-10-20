@@ -1,0 +1,44 @@
+[
+  {
+    "id": "05fi0kkrqokgmgyxobi5",
+    "tenant_slug": "demo",
+    "code": "R101",
+    "capacity": 40,
+    "is_lab": 0
+  },
+  {
+    "id": "69nfd6z23gjmgyxobi5",
+    "tenant_slug": "demo",
+    "code": "R201",
+    "capacity": 40,
+    "is_lab": 0
+  },
+  {
+    "id": "26hud6713dnmgyxobi5",
+    "tenant_slug": "demo",
+    "code": "LAB1",
+    "capacity": 30,
+    "is_lab": 1
+  },
+  {
+    "id": "2sj5dzhodtamgyxobi5",
+    "tenant_slug": "demo",
+    "code": "R102",
+    "capacity": 40,
+    "is_lab": 0
+  },
+  {
+    "id": "fc2bgfy0zb9mgyxobi5",
+    "tenant_slug": "demo",
+    "code": "R202",
+    "capacity": 40,
+    "is_lab": 0
+  },
+  {
+    "id": "7e1fqi3t5hqmgyxobi5",
+    "tenant_slug": "demo",
+    "code": "LAB2",
+    "capacity": 30,
+    "is_lab": 1
+  }
+]
