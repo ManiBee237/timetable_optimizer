@@ -1,0 +1,78 @@
+<!doctype html>
+<html class="h-full" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TimeWeave • School Timetables</title>
+
+    <!-- Fun, kid-friendly fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
+
+    <!-- Tailwind CDN (no config/postcss) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            fontFamily: {
+              display: ['Fredoka', 'ui-sans-serif', 'system-ui'],
+              sans: ['Nunito', 'ui-sans-serif', 'system-ui'],
+            },
+            colors: {
+              candy: {
+                pink:  '#FF81AE',
+                peach: '#FFB086',
+                lemon: '#FFE27A',
+                mint:  '#8FE3CF',
+                sky:   '#7CD4FD',
+                grape: '#B79CFF',
+                blue:  '#79A7FF'
+              }
+            },
+            boxShadow: {
+              bubble: '0 10px 20px rgba(0,0,0,0.06), 0 6px 6px rgba(0,0,0,0.05)'
+            },
+            borderRadius: {
+              bubble: '1.25rem'
+            }
+          }
+        }
+      }
+    </script>
+
+    <!-- Theme (persist) -->
+    <script>
+      const ls = localStorage.getItem('tw_theme')
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
+      const html = document.documentElement
+      if (ls === 'dark' || (!ls && prefersDark)) html.classList.add('dark')
+    </script>
+
+    <!-- Playful background pattern -->
+    <style>
+      :root {
+        --card: 255 255 255;         /* white */
+        --muted: 250 250 255;        /* very soft */
+        --border: 232 232 240;
+      }
+      .dark:root {
+        --card: 20 24 35;
+        --muted: 16 18 28;
+        --border: 60 64 80;
+      }
+      .bg-confetti {
+        background-image:
+          radial-gradient(circle at 20% 20%, rgba(255,185,206,.25) 0 120px, transparent 120px),
+          radial-gradient(circle at 80% 30%, rgba(179,223,255,.25) 0 120px, transparent 120px),
+          radial-gradient(circle at 30% 80%, rgba(255,246,178,.28) 0 140px, transparent 140px),
+          radial-gradient(circle at 75% 75%, rgba(177,255,226,.25) 0 120px, transparent 120px);
+      }
+    </style>
+  </head>
+  <body class="h-full bg-confetti bg-[rgb(var(--muted))] dark:bg-[rgb(var(--muted))] text-gray-900 dark:text-gray-100">
+    <div id="root" class="h-full"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

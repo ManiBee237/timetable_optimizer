@@ -1,0 +1,19 @@
+{
+  "name": "timeweave-backend",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "migrate": "node src/db/migrate.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "knex": "latest",
+    "mysql2": "latest",
+    "sqlite3": "latest"
+  }
+}
