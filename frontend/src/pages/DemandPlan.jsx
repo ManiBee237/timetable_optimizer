@@ -1,3 +1,5 @@
+// frontend/src/pages/DemandPlan.jsx
+
 import { useEffect, useState } from 'react'
 import Card from '../components/Card'
 import Empty from '../components/Empty'
@@ -13,17 +15,22 @@ export default function DemandPlan({ weekStart }){
   async function load(){
     setLoading(true)
     try {
-      const j = await jget(`/api/demand/forecast?week_start=${weekStart}`)
+      const j = await jget(`demand/forecast?week_start=${encodeURIComponent(weekStart)}`)
       setRows(j.items || [])
+    } catch (e) {
+      toast(e.message || 'Failed to load forecast', 'error')
+      setRows([])
     } finally { setLoading(false) }
   }
+
   async function run(){
     setLoading(true)
     try {
-      await jpost('/api/demand/forecast', { week_start: weekStart })
+      await jpost('demand/forecast', { tenant: 'demo', week_start: weekStart })
       toast('ML forecast refreshed', 'success')
       await load()
-    } catch(e){ toast(e.message || 'Failed', 'error') } finally { setLoading(false) }
+    } catch(e){ toast(e.message || 'Failed to run forecast', 'error') }
+    finally { setLoading(false) }
   }
 
   useEffect(()=>{ load() }, [weekStart])
@@ -36,7 +43,7 @@ export default function DemandPlan({ weekStart }){
             <button onClick={run} disabled={loading} className="px-3 py-2 rounded-xl border text-sm inline-flex items-center gap-2">
               <Play size={16}/> Run ML Forecast
             </button>
-            <button onClick={load} className="px-3 py-2 rounded-xl border text-sm inline-flex items-center gap-2">
+            <button onClick={load} disabled={loading} className="px-3 py-2 rounded-xl border text-sm inline-flex items-center gap-2">
               <RefreshCw size={16}/> Refresh
             </button>
           </>
@@ -60,7 +67,7 @@ export default function DemandPlan({ weekStart }){
                     <td className="p-2">#{r.class_id}</td>
                     <td className="p-2">#{r.subject_id}</td>
                     <td className="p-2">{r.periods_required}</td>
-                    <td className="p-2">{r.source}</td>
+                    <td className="p-2">{r.source || '-'}</td>
                   </tr>
                 ))}
               </tbody>

@@ -1,3 +1,5 @@
+// frontend/src/pages/Optimize.jsx
+
 import { useEffect, useMemo, useState } from 'react'
 import { jget, jpost } from '../lib/api'
 import Spinner from '../components/Spinner'
@@ -9,23 +11,72 @@ export default function Optimize({ weekStart }){
   const [loading, setLoading] = useState(false)
   const [solutionId, setSolutionId] = useState(null)
   const [rows, setRows] = useState([])
-  const [classes, setClasses] = useState([])
 
-  async function loadClasses(){
-    const j = await jget('/api/crud/classes?limit=1000')
-    const list = (j.rows||[]).slice().sort((a,b)=> String(a.code+a.section).localeCompare(String(b.code+b.section)))
-    setClasses(list)
+  const [classes, setClasses] = useState([])
+  const [subjects, setSubjects] = useState([])
+  const [teachers, setTeachers] = useState([])
+  const [rooms, setRooms] = useState([])
+
+  const normList = (j) => (j?.rows || j?.items || [])
+
+  async function loadAll(){
+    const [c,s,t,r] = await Promise.all([
+      jget('crud/classes?limit=1000').catch(()=>({})),
+      jget('crud/subjects?limit=1000').catch(()=>({})),
+      jget('crud/teachers?limit=1000').catch(()=>({})),
+      jget('crud/rooms?limit=1000').catch(()=>({})),
+    ])
+    setClasses(normList(c))
+    setSubjects(normList(s))
+    setTeachers(normList(t))
+    setRooms(normList(r))
+  }
+
+  const fullTeacherAvail = (teacher_id, days=5, periods=8) =>
+    Array.from({length: days*periods}, (_,i) => ({
+      teacher_id, day: Math.floor(i/periods), period: i%periods, available: 1
+    }))
+
+  const fullRoomAvail = (room_id, days=5, periods=8) =>
+    Array.from({length: days*periods}, (_,i) => ({
+      room_id, day: Math.floor(i/periods), period: i%periods, available: 1
+    }))
+
+  function buildPayload(){
+    const hasData = classes.length && subjects.length && teachers.length && rooms.length
+
+    const C = hasData ? classes.map(x => ({ id: x.id ?? x._id ?? 1, code: x.code, section: x.section })) : [{ id:1, code:'A', section:'1' }]
+    const S = hasData ? subjects.map(x => ({ id: x.id ?? x._id ?? 10, name: x.name, is_lab: x.is_lab?1:0 })) : [{ id:10, name:'Math', is_lab:0 }]
+    const T = hasData ? teachers.map(x => ({ id: x.id ?? x._id ?? 100, name: x.name })) : [{ id:100, name:'Mrs X' }]
+    const R = hasData ? rooms.map(x => ({ id: x.id ?? x._id ?? 200, name: x.name, is_lab: x.is_lab?1:0 })) : [{ id:200, name:'R1', is_lab:0 }]
+
+    const teacher_subjects = T.flatMap(t => S.map(s => ({ teacher_id: t.id, subject_id: s.id })))
+    const class_subjects = C.flatMap(c => S.map(s => ({ class_id: c.id, subject_id: s.id })))
+    const availability_teacher = T.flatMap(t => fullTeacherAvail(t.id, 5, DEFAULT_PERIODS))
+    const availability_room    = R.flatMap(r => fullRoomAvail(r.id, 5, DEFAULT_PERIODS))
+    const demand = C.flatMap(c => S.map(s => ({ class_id: c.id, subject_id: s.id, periods_required: 3 })))
+
+    return {
+      tenant: 'demo',
+      week_start: weekStart,
+      strict: true,
+      classes: C, subjects: S, teachers: T, rooms: R,
+      teacher_subjects, class_subjects,
+      availability_teacher, availability_room,
+      demand, locks: [], penalties: { room_mismatch: 4 },
+    }
   }
 
   async function solve(){
     setLoading(true)
     try{
-      await jget(`/api/demand/forecast?week_start=${weekStart}`)
-      const res = await jpost('/api/optimize/solve', { week_start: weekStart, strict: true })
+      const payload = buildPayload()
+      const res = await jpost('optimize/solve', payload)
       setSolutionId(res.solution_id || null)
+
       if (res.solution_id){
-        const k = await jget(`/api/optimize/solution/${res.solution_id}`)
-        setRows(k.rows || [])
+        const got = await jget(`optimize/solution/${res.solution_id}`)
+        setRows(got.rows || [])
       } else {
         setRows([])
         alert('No feasible solution for this week.')
@@ -35,14 +86,7 @@ export default function Optimize({ weekStart }){
     }
   }
 
-  async function reload(){
-    if (!solutionId) return
-    const k = await jget(`/api/optimize/solution/${solutionId}`)
-    setRows(k.rows || [])
-  }
-
-  useEffect(()=>{ loadClasses() }, [])
-  useEffect(()=>{ if (solutionId) reload() }, [solutionId])
+  useEffect(()=>{ loadAll() }, [])
 
   const periods = useMemo(()=>{
     let maxP = DEFAULT_PERIODS - 1
@@ -50,7 +94,6 @@ export default function Optimize({ weekStart }){
     return Math.max(DEFAULT_PERIODS, maxP + 1)
   }, [rows])
 
-  // class -> 5 x periods grid
   const byClass = useMemo(()=>{
     const map = new Map()
     for (const r of rows){
@@ -74,13 +117,11 @@ export default function Optimize({ weekStart }){
         <div className="ml-auto text-sm opacity-70">Week: {weekStart}</div>
       </div>
 
-      {/* COLUMN LAYOUT: one card per class, stacked vertically */}
       <div className="flex flex-col gap-4">
-        {classes.map(c => {
-          const cid = String(c._id || c.id)
+        {(classes.length ? classes : [{id:1, code:'A', section:'1'}]).map(c => {
+          const cid = String(c._id || c.id || 1)
           const grid = byClass.get(cid) || Array.from({length:5},()=>Array(periods).fill(null))
-          const title = `${c.code}-${c.section}`
-
+          const title = `${c.code || 'A'}-${c.section || '1'}`
           return (
             <div key={cid} className="rounded-2xl border bg-white shadow-sm overflow-hidden">
               <div className="px-3 py-2 font-semibold bg-gray-50">{title}</div>
@@ -104,16 +145,10 @@ export default function Optimize({ weekStart }){
                             <td key={`cell-${cid}-${d}-${p}`} className="p-2 align-top">
                               {cell ? (
                                 <div className="rounded-xl border p-2 space-y-1">
-                                  <div className="font-medium">{cell.subject_label}</div>
+                                  <div className="font-medium">Subject #{cell.subject_id}</div>
                                   <div className="text-xs opacity-70">
-                                    {cell.teacher_name} • {cell.room_label} {cell.hard_lock?'• 🔒':''} {cell.is_lab?'• Lab':''}
+                                    Teacher #{cell.teacher_id} • Room #{cell.room_id} {cell.hard_lock?'• 🔒':''}
                                   </div>
-                                  <details className="text-xs">
-                                    <summary className="cursor-pointer">Why this slot?</summary>
-                                    <ul className="list-disc pl-4 mt-1 space-y-1">
-                                      {(cell.why||[]).map((w,i)=> <li key={`why-${cid}-${d}-${p}-${i}`}>{w}</li>)}
-                                    </ul>
-                                  </details>
                                 </div>
                               ) : (
                                 <div className="text-xs opacity-40">—</div>
